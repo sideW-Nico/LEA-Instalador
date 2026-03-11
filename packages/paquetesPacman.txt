@@ -93,3 +93,4 @@ fakeroot
 python-dbus-fast
 python-pulsectl-asyncio
 python-iwlib
+polkit-gnome
